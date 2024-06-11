@@ -16,3 +16,20 @@ Evaluate the distribution of charges among different payers and providers.
 Compare charges across different services.
 Monitor the volume and age of claims.
 Assess the success rate and quality of claim submissions.
+
+Denial dashboard : The Denials Dashboard in Revenue Cycle Management (RCM) is designed to provide insights into the denials process. This dashboard aims to identify, analyze, and address reasons for claim denials to enhance the overall efficiency of the revenue cycle
+
+The primary objective of the Denials Dashboard is to provide a comprehensive view of the denials process, enabling stakeholders to:
+
+Track trends in denial amounts and percentages over time.
+Understand the distribution of denied charges among different payers and providers.
+Analyze the age distribution of outstanding denied claims.
+Identify the most common reasons for claim denials.
+Compare denial amounts across different services.
+
+By achieving these objectives, the Denials Dashboard helps in:
+
+Reducing the overall denial rates.
+Identifying and addressing common denial reasons.
+Improving follow-up and resolution processes for denied claims.
+Enhancing the financial performance by minimizing revenue loss due to denials.
