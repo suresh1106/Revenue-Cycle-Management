@@ -2,7 +2,7 @@
 
 Power Bi Service : https://app.powerbi.com/view?r=eyJrIjoiZGY1YjI1NzgtNmJhZS00NDQ0LWE2MjMtZTY0YjczYjkwOWUwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
-Objective: The concept of Revenue Cycle Management revolves around efficiency managing the finacial process within a business, particularly in industries like healthcare. It encompass tasks such as patient registration, insurance verfication,coding and billing , claims submission, payment processing, and follow up on unpaid claims. 
+Objective: The concept of Revenue Cycle Management revolves around efficiency managing the financial process within a business, particularly in industries like healthcare. It encompass tasks such as patient registration, insurance verfication,coding and billing , claims submission, payment processing, and follow up on unpaid claims. 
 
 Goal: The Goal is to streamline the process to maximize revenue, minimize claim denials and ensure complaine with regulations while providing quality patient care.
 
