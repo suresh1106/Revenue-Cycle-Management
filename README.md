@@ -33,5 +33,3 @@ By achieving these objectives, the Denials Dashboard helps in:
 •	Identifying and addressing common denial reasons.
 •	Improving follow-up and resolution processes for denied claims.
 •	Enhancing the financial performance by minimizing revenue loss due to denials.
-
-
