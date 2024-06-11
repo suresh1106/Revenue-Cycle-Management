@@ -6,3 +6,5 @@ Goal: The Goal is to streamline the process to maximize revenue, minimize claim 
 
 RCM in US healthcare Managemnet:
       To understand the RCM cycle we need to understand the 3 most important bodies that play a crucial role in entire RCM Cycle. They are Patient, Provider & Payer.
+
+Claim DashboardThe Claims Dashboard in Revenue Cycle Management (RCM) serves multiple objectives related to monitoring and analyzing the claims process. It provides a comprehensive overview of claim submissions, trends, and performance metrics
